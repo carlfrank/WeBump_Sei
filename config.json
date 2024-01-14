@@ -1,0 +1,22 @@
+{  
+"mnemonic":  "<your mnemonic keyphrase>",  
+"rpc":  "https://sei-testnet-2-rpc.brocha.in",  
+"name":  "The Cans",  
+"symbol":  "CAN",  
+"description":  "",  
+"supply":  20,  
+"token_uri":  "https://arweave.net/6HV_criwByrPM1xw_QyCOvDdei-tq8Xmb1R8t45r4lk",  
+"royalty_percent":  5,  
+"royalty_wallet":  "sei1qlmlc9h6deamn6hqc7pfwxslvth77sgpu9ucdn",  
+"creator_wallet":  "sei1qlmlc9h6deamn6hqc7pfwxslvth77sgpu9ucdn",  
+"groups":  [  
+{  
+"name":  "public",  
+"merkle_root":  null,  
+"max_tokens":  0,  
+"unit_price":  1,  
+"start_time":  "2023-06-02T11:50:25Z",  
+"end_time":  null  
+}  
+]  
+}
